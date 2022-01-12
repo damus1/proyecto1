@@ -1,0 +1,82 @@
+.mi_clase{
+    margin-left: 150px;
+}
+
+h4{
+    font-style: italic;
+}
+
+.mi_clase2{
+    margin-left: 150px;
+}
+h4{
+        font-style: italic;
+}
+
+.mi_clase3{
+    margin-left: 400px;
+    
+  }
+
+  .mi_titulo{
+    margin-left: 10px;
+
+}
+
+h4{
+        font-style: italic;
+        font-family: monospace;
+}
+
+.mi_clase5{
+    margin-left: 1050px;
+    
+  }
+
+.mi_clase6{
+    position: sticky;
+    top: 30%;
+  
+}
+
+nav a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    }
+          
+nav li{
+    display:inline-block;
+    width:150px;
+    height:30px;
+    padding:5px 10px;
+    background-color:seagreen;
+    border:1px solid #000;
+    text-align:center;
+    color:#fff;
+    position:relative;
+}
+
+
+nav li>ul{
+    display:none;
+    }
+
+nav li:hover>ul{
+    display:block;
+    position:absolute;
+    top:30px;
+    left:0px;
+}
+
+.negrita{
+font-weight: bold;
+
+}
+
+.boton{
+    background-color:seagreen;
+   
+}
